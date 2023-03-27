@@ -2,7 +2,7 @@
 A 'Work-in-Progress' streamlit based blog project.
 
 ## Requirements
-- python >=3.6
+- python >=3.7
 - streamlit 
 - streamlit-lottie
 - numpy
