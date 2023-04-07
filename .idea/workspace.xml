@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="902aff53-2df0-4896-a25f-2ec37675a35d" name="Changes" comment="" />
+    <list default="true" id="902aff53-2df0-4896-a25f-2ec37675a35d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Emotion_Detection/Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Emotion_Detection/Preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Emotion_Detection/Training and evaluation of TF-IDF , ML model for emotion classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Emotion_Detection/Training and evaluation of TF-IDF , ML model for emotion classification.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
